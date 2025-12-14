@@ -1,0 +1,12 @@
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\ejbs\ResearcherBean.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\entities\User.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\SciencePlatformApplication.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\ws\PublicationService.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\dtos\PublicationDTO.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\ejbs\AdministratorBean.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\entities\Administrator.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\entities\Publication.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\ejbs\ConfigBean.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\enums\PublicationType.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\entities\Researcher.class
+pt\ipleiria\estg\dei\ei\dae\scienceplatform\ejbs\PublicationBean.class
